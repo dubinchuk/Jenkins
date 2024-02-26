@@ -75,7 +75,7 @@
 					]
 				},
 				"url": {
-					"raw": "http://162.55.220.72:5005/user_info_3",
+					"raw": "http://162.55.220.72:5008/user_info_3",
 					"protocol": "http",
 					"host": [
 						"162",
@@ -83,7 +83,7 @@
 						"220",
 						"72"
 					],
-					"port": "5005",
+					"port": "5008",
 					"path": [
 						"user_info_3"
 					]
@@ -97,7 +97,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://162.55.220.72:5005/object_info_1?name=Evgeny&age=35&weight=74",
+					"raw": "http://162.55.220.72:5008/object_info_1?name=Evgeny&age=35&weight=74",
 					"protocol": "http",
 					"host": [
 						"162",
@@ -105,7 +105,7 @@
 						"220",
 						"72"
 					],
-					"port": "5005",
+					"port": "5008",
 					"path": [
 						"object_info_1"
 					],
@@ -133,7 +133,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://162.55.220.72:5005/object_info_2?name=Evgeny&age=35&salary=1000",
+					"raw": "http://162.55.220.72:5008/object_info_2?name=Evgeny&age=35&salary=1000",
 					"protocol": "http",
 					"host": [
 						"162",
@@ -141,7 +141,7 @@
 						"220",
 						"72"
 					],
-					"port": "5005",
+					"port": "5008",
 					"path": [
 						"object_info_2"
 					],
@@ -169,7 +169,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://162.55.220.72:5005/object_info_4?name=Evgeny&age=35&salary=1000",
+					"raw": "http://162.55.220.72:5008/object_info_4?name=Evgeny&age=35&salary=1000",
 					"protocol": "http",
 					"host": [
 						"162",
@@ -177,7 +177,7 @@
 						"220",
 						"72"
 					],
-					"port": "5005",
+					"port": "5008",
 					"path": [
 						"object_info_4"
 					],
